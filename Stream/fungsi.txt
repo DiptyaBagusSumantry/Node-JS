@@ -1,0 +1,2 @@
+fungsi stream untuk menyicil dari video yang ada di browser,
+ketika tidak ada stream browser akan mendownload dlu baru di tampilkan.

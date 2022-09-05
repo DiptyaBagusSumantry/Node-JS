@@ -1,0 +1,3 @@
+Buffer adalah buffering
+dapat merubah dari stirng ke bentuk integer, karena komputer dapat berkomunikasi
+degan bilangan biner yaitu 0101.

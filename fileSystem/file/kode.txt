@@ -1,0 +1,2 @@
+Ini data baru dengan writeStream okee
+aku merubah kode.txt oke

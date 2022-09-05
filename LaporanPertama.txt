@@ -1,0 +1,29 @@
+node js adalah runtime pada javascript yang dibangun pada V8 chrome untuk mengeksekusi bahasa pemrograman javascript ke sisi server
+berbentuk no blocking io mudah untuk scaling. 
+Install Node.Js pada link nodejs.org mengecek node.js sudah terinstall menggunakan node -v. untuk mencoba menulis pemrograman dan menampilkan hasilnya
+dapat menggunakan perintah node klik enter dan menuliskan 'Hallo Word' atau menggunakan console.log("Hello Word") pada CMD atau terminal. dapat menggunakan operator aritmatika. 
+.exit untuk keluar dari terminal dan clear untuk membersihkan terminal. CD digunakan untuk masuk direktori.
+
+Terdapat 3 Modul yaitu :
+1. Built - in module yaitu sudah otomatis terinstall ketika menggunakan node.js
+2. user device modul  yaitu user menulis modul sendiri.
+3. third party module yaitu modul tersedia online yang dapat di download
+
+jalankan pada terminal dengan memasukan node namaFile.js
+
+buffer dan stream bisa di ibaratkan terminal bis yaitu bisa akan berangkat apabila penumpang didalam bis sudah memnuhi tempat duduk bis.
+jadi apabila penumpang bis tersebut belum mencukupi bis akan menunggu sampai memenuhi isi penumpang bis.
+tempat menunggu penumpang dalam istilah ini disebut buffer. node.js hanya mengatur kapan bisnya bisa jalan dan bisnya kapan menunggu dan buffer merupakan tempat menyimpan data sementara dimana data tersebut berisfat menunggu.
+
+piping menampilkan satu output sangat revaibel untuk get data dari stream satu ke stream lainya. tidak ada batasan utuk piping.
+
+chaining mekanisme untuk mengkoneksikan output dari stream ke stream lainya dengan membuat satu chain atau rantai.
+
+Perbedaan POST dan GET
+penggunaan GET ketika dijalankan dan membawa data maka, data tersebut akan keliatan ada link browser
+sedangkan POST ketika sedang membwa data tidak akan melihatkan di link, jadi hanya menampilkan di tampilannya saja.
+
+
+
+
+ 
